@@ -1,4 +1,16 @@
+body {
+    color: white;
+    background-image: url("images/universe.jpg");
+    background-size: cover;
+    text-align: center;
+}
 
+.btn {
+    padding-top: 2px;
+    padding-bottom: 2px;
+    padding-left: 4px;
+    padding-right: 5px;
+}
 
 
 
