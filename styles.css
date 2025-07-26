@@ -6,10 +6,10 @@ body {
 }
 
 .btn {
-    padding-top: 2px;
-    padding-bottom: 2px;
-    padding-left: 4px;
-    padding-right: 5px;
+    padding: 10px 20px;
+    background: white;
+    border: none;
+
 }
 
 
