@@ -7,21 +7,20 @@ body {
 }
 
 .btn {
-    padding: 10px 20px;
+    padding: 10px 20px; 
     background: white;
     border: none;
+    font-family: "Orbitron", sans-serif;
 }
 
-/* 
-Challenge:
-Add the underline to the title using a <span> and a class.
-*/
 .underline {
     text-decoration: underline;
     text-decoration-color: white;
     text-decoration-thickness: 5px;
     text-underline-offset: 10px;
 }
+
+
 
 
 
